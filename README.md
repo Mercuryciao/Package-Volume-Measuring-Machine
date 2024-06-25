@@ -12,14 +12,13 @@ The Package Volume Measuring Machine is a Python-based project designed for meas
 ## Installation
 To set up the Package Volume Measuring Machine on your Raspberry Pi:
 1. **Clone the repository**:
-   '''
-   git clone https://github.com/yourusername/Package-Volume-Measuring-Machine.git
-   cd Package-Volume-Measuring-Machine
-   '''
+```
+git clone https://github.com/yourusername/Package-Volume-Measuring-Machine.git
+cd Package-Volume-Measuring-Machine
+```
 
 2. **Run the application**:
 This will start the package volume measuring process using the configured sensors and camera.
-'''
-python image_processing.py
-
-'''
+```
+python3 image_processing.py
+```
